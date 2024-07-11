@@ -1,0 +1,2 @@
+# 说明
+基于express服务的restfullapi项目，使用mockjs来创造数据配合前端使用
